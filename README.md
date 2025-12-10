@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./card.png" alt="Card">
+  <img src="./card.png" alt="Card" style="height: 340px;">
 </div>
 
 ## Hi there 👋
