@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./card.png" alt="Card">
+</div>
+
 ## Hi there 👋
 
 <!--
