@@ -1,0 +1,28 @@
+{
+  "basics": {
+    "name": "Alexander Gustovarac",
+    "label": "",
+    "picture": "https://example.com/photo.jpg",
+    "email": "alexander.gustovarac@gmail.com",
+    "phone": "",
+    "url": "https://alexandergustovarac.from.hr",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Zagreb",
+      "countryCode": "Croatia",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "publications": [],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
