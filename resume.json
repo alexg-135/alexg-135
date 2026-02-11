@@ -2,14 +2,14 @@
   "basics": {
     "name": "Alexander Gustovarac",
     "label": "",
-    "picture": "https://example.com/photo.jpg",
+    "picture": "",
     "email": "alexander.gustovarac@gmail.com",
     "phone": "",
-    "url": "https://alexandergustovarac.from.hr",
+    "url": "https://alexandergustovarac.from.hr/",
     "summary": "",
     "location": {
       "address": "",
-      "postalCode": "",
+      "postalCode": "10000",
       "city": "Zagreb",
       "countryCode": "Croatia",
       "region": ""
