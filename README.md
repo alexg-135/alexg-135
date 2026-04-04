@@ -10,12 +10,6 @@ Welcome to my GitHub profile!
 
 Want to see more of what I do? Check out my website:
 
-👉 **[Visit my website](https://alexandergustovarac.from.hr)**
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexg-135\&show_icons=true)
-
 ✨ Thanks for visiting my profile!
 
 <!--
