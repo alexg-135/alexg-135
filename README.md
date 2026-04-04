@@ -2,7 +2,21 @@
   <img src="./card.png" alt="Card" style="width: 620px;">
 </div>
 
-## Hi there 👋
+# 👋 Hi there!
+
+Welcome to my GitHub profile!
+
+## 🌐 My Website
+
+Want to see more of what I do? Check out my website:
+
+👉 **[Visit my website](https://alexandergustovarac.from.hr)**
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexg-135\&show_icons=true)
+
+✨ Thanks for visiting my profile!
 
 <!--
 **alexg-135/alexg-135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
